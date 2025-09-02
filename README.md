@@ -15,4 +15,4 @@ Abra o arquivo `index.html` em seu navegador.
 - Boas práticas de usabilidade em formulários
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
